@@ -27,7 +27,7 @@
 <a href="https://instagram.com/i_m_tanoosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_tanoosh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kondutanoosh0414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kondutanoosh04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21a31a4239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21a31a4239" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanoosh-kondu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanooshkondu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/TanooshKondu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanooshkondu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kondutan6ufm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanooshkondu" height="30" width="40" /></a>
 </p>
 
